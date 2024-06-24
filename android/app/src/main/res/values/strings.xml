@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cappay</string>
+    <string name="title_activity_main">cappay</string>
+    <string name="package_name">com.cappay.app</string>
+    <string name="custom_url_scheme">com.cappay.app</string>
+</resources>
